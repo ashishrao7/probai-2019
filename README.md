@@ -1,21 +1,25 @@
 
 # ProbAI 2019
 
-## Lectures
+Recorded lectures and tutorials, slides and program code from the very first Nordic Probabilistic AI School ([ProbAI 2019](https://2019.probabilistic.ai)).
 
-* Day 1 - [Introduction to Probabilistic Modelling](https://github.com/probabilisticai/probai-2019/tree/master/day1/introduction_to_probabilistic_modelling.pdf)
-* Day 2 - [Variational Inference and Optimization 1](https://github.com/probabilisticai/probai-2019/tree/master/day2/variational_inference_and_optimization_1.pdf)
-* Day 3 - [Variational Inference and Optimization 2](https://github.com/probabilisticai/probai-2019/tree/master/day3/Klami_ProbAISchool_2.pdf)
-* Day 4 - [Introduction to Deep Learning & Deep Generative Models](https://github.com/probabilisticai/probai-2019/blob/master/day4/slides-deep-generative-models-thomas-lucas.pdf)
-* Day 5 - [Deep Generative Models](https://github.com/probabilisticai/probai-2019/blob/master/day5/dgm_thomas_lucas.pdf)
+## Lectures and Tutorials
 
-## Tutorials
-
-* Day 1 - [Probabilistic Programming](https://github.com/probabilisticai/probai-2019/tree/master/day1/day1_tutorial)
-* Day 2 - [Variational Inference and Probabilistic Programming 1](https://github.com/probabilisticai/probai-2019/tree/master/day2/day2_tutorial)
-* Day 3 - [Variational Inference and Probabilistic Programming 2](https://github.com/probabilisticai/probai-2019/tree/master/day3/day3_tutorial)
-* Day 4 - [Deep Latent Variable Models for Imputation of Incomplete Data Sets (Imputations with MIWAE)](https://github.com/probabilisticai/probai-2019/tree/master/day4/tutorial_dlvm)
-* Day 5 - [Bayesian Sparsification of Neural Networks](https://github.com/probabilisticai/probai-2019/tree/master/day5/Bayesian_sparsification_tutorial)
+* Day 1 (June 3):
+  * [[Lecture](https://youtu.be/rvB-VVgot2A), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day1/introduction_to_probabilistic_modelling.pdf)] Introduction to Probabilistic Modelling
+  * [[Tutorial](https://youtu.be/JWHn2fdw5YA), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day1/day1_tutorial)] Probabilistic Programming
+* Day 2 (June 4):
+  * [[Lecture](https://youtu.be/60USDNc1nE8), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day2/variational_inference_and_optimization_1.pdf)] Variational Inference and Optimization 1
+  * [[Tutorial](https://youtu.be/iELH5hlk92o), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day2/day2_tutorial)] Variational Inference and Probabilistic Programming 1
+* Day 3 (June 5):
+  * [[Lecture](https://youtu.be/r_YzsRW0bDs), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day3/Klami_ProbAISchool_2.pdf)] Variational Inference and Optimization 2
+  * [[Tutorial](https://youtu.be/IsXba_krm7A), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day3/day3_tutorial)] Variational Inference and Probabilistic Programming 2
+* Day 4 (June 6):
+  * [[Lecture](https://youtu.be/W_8RbgkwXDc), [Materials](https://github.com/probabilisticai/probai-2019/blob/master/day4/slides-deep-generative-models-thomas-lucas.pdf)] Introduction to Deep Learning & Deep Generative Models
+  * [[Tutorial](https://youtu.be/xeGoURlbF-c), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day4/tutorial_dlvm)] Deep Latent Variable Models for Imputation of Incomplete Data Sets (Imputations with MIWAE)
+* Day 5 (June 7):
+  * [[Lecture](https://youtu.be/_Hy7Xkrmk7Y), [Materials](https://github.com/probabilisticai/probai-2019/blob/master/day5/dgm_thomas_lucas.pdf)] Deep Generative Models
+  * [[Tutorial](https://www.youtube.com/watch?v=aW-tMXJ5a7s), [Materials](https://github.com/probabilisticai/probai-2019/tree/master/day5/Bayesian_sparsification_tutorial)] Bayesian Sparsification of Neural Networks
 
 ###  Google Colab
 
@@ -42,7 +46,3 @@ Start the Google Colab notebook with the following line to install the necessary
     * [Bayesian Methods for Rank and Preference Data: From Recommender Systems to Cancer Genomics](https://github.com/probabilisticai/probai-2019/blob/master/day3/bayesian_methods_for_rank_and_preference_data.pdf) by Valeria Vitelli
 * Day 4:
     * [Combining Model and Parameter Uncertainty in BNNs](https://github.com/probabilisticai/probai-2019/blob/master/day4/combining_model_and_parameter_uncertainty_in_bnns.pdf) by Aliaksandr Hubin
-
----
-
-We will keep updating this document.
